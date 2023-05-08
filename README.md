@@ -4,7 +4,7 @@ Dashboard project repository for Business Intelligence (BI) using Microsoft Powe
 
 ---
 
- <sub><b>Thales de Lima Silva</b></sub></a>
+ <sub><b>Thales Lima Silva</b></sub></a>
 
 Feito com ❤️! Entre em contato! 👋🏽 
 
